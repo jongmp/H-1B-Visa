@@ -13,7 +13,7 @@ intended employment for not more than three years. The datasets are from the [De
 They can all be found in this [Kaggle Dataset](https://www.kaggle.com/jmpark746/h1b-visas)
 
 ## Installation
-To run the .ipynb file, you will need to install [Jupyter Notebook.](https://jupyter.readthedocs.io/en/latest/install.html) For a local installation, make sure you have pip installed and run:
+To run the .ipynb file, you will need to first install [Python](https://www.python.org/), then install [Jupyter Notebook.](https://jupyter.readthedocs.io/en/latest/install.html) The instructions for the installation are provided in these links. For a local installation of Jupyter Notebook, make sure you have pip installed and run:
 ```bash
 pip install notebook
 ```
